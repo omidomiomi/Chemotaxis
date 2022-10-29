@@ -1,4 +1,4 @@
-Circle[] Bouncy;
+Circle[] Bouncy;//pls work
 boolean tickles = false;
 void setup(){
   background(0);
